@@ -21,3 +21,7 @@
 ![Снимок экрана 2022-11-02 235529](https://user-images.githubusercontent.com/117310168/199605916-16e8745b-c58b-45c1-ba2c-3b2d21b10061.png)
 
 <sub> Была создана ветка для отчёта, была создана папка для скриншотов работы.</sub>![Снимок экрана 2022-11-02 235834](https://user-images.githubusercontent.com/117310168/199606175-b3df41da-73eb-485a-9cd2-b8e0186c173e.png)
+
+Был получен лог комманд.
+
+![Снимок экрана 2022-11-03 003121](https://user-images.githubusercontent.com/117310168/199606489-7057054d-665d-48ed-b832-f5ff1edddf6c.png)
