@@ -13,3 +13,10 @@
 ***Была создана ветка br_1 для того, чтобы создать файл file_with_very_important_text.txt, добавить в него текст и зокммитить его в ветку, после чего было произведено слияние ветки br_1 с главной. Ветка br_1 была удалена***
 
 ![Снимок экрана 2022-11-02 221319](https://user-images.githubusercontent.com/117310168/199605015-e509117d-2174-4ed3-9d3d-099f78fbf2bf.png)
+
+<sup> Был создан файл commitedcommit.txt, в котором было два коммита, был выполнен откат одного коммита.</sup>
+
+![Снимок экрана 2022-11-03 002418](https://user-images.githubusercontent.com/117310168/199605874-7b12e0f9-10b0-4084-9cdd-1ce2064567dc.png)
+![Снимок экрана 2022-11-03 002432](https://user-images.githubusercontent.com/117310168/199605881-0ed4bc84-ae1e-4636-a730-2f75c187e497.png)
+![Снимок экрана 2022-11-02 235529](https://user-images.githubusercontent.com/117310168/199605916-16e8745b-c58b-45c1-ba2c-3b2d21b10061.png)
+![Снимок экрана 2022-11-02 235529](https://user-images.githubusercontent.com/117310168/199605947-f3e52991-ee1e-4ef6-ae31-33feb6d58f8b.png)
